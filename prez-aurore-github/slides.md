@@ -24,12 +24,19 @@
 
 ```scss
 mkdir nom-de-projet
-cd nom-de-projet git init
+cd nom-de-projet
+git init
 
 // code
+```
 
-git add .
-git commit -m 'le message de commit'
+With `oh-my-zsh` you can use :
+
+```scss
+mkcd nom-de-projet
+git init
+
+// code
 ```
 
 ---
@@ -54,9 +61,7 @@ git add .
 git commit -m 'le message de commit'
 ```
 
-#
-
-- With `oh-my-zsh` :
+With `oh-my-zsh` :
 
 ```scss
 gss
