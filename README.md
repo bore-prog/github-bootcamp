@@ -1,3 +1,9 @@
+# Réalisation des exercices de Bootcamp GitHub par Aurore PHILIPPE
+
+Les exos réaliser se passent dans le dossier [prez-aurore-github](https://github.com/bore-prog/github-bootcamp/tree/main/prez-aurore-github)
+
+Il y a aussi accès à un site deployé via Vercel : https://github-bootcamp-yiqc.vercel.app/?slideIndex=0&stepIndex=0
+
 # GitHub Bootcamp — Curriculum for Beginners
 
 > A series of **git challenges** with a variety of difficulties for busy developers working in a team.
