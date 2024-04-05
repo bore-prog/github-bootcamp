@@ -41,5 +41,9 @@ gcmsg 'le message de commit'
 # How to review changes
 
 ```
-
+git diff
 ```
+
+- or `gd` with zsh
+
+- or open the [**Pull requests**](https://github.com/flexbox/github-bootcamp/pulls) tab in GitHub
