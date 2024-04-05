@@ -97,7 +97,7 @@ git commit -m ":sparkles: message"
 ```
 
 Pour les messages de commit vous pouvez utiliser des emojis comme ceux de [gitmoji](https://gitmoji.dev/).
-Ou encore suivre une [convention de nommage](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+Ou encore suivre une [convention de nommage](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/).
 
 ---
 
@@ -109,9 +109,17 @@ git diff main..nom_de_branche
 git merge nom_de_branche
 ```
 
-## Vous pouvez aussi décider de `git push`sur la branch distante et merger via les pull requests.
+Vous pouvez aussi décider de `git push` sur la branch distante et merger via les pull requests de GitHub.
+
+---
 
 # Delete a branch
 
 `git branch --delete nom_de_branche` vous permet de supprimer la branche
-D'ailleurs, il vaut mieux avoir changer de branche avant (`git switch main`)
+Mieux vaut avoir changer de branche avant (`git switch main`)
+
+--- { "layout" : "center" }
+
+Merci pour votre attention
+
+_- Aurore / bore-prog_
