@@ -94,3 +94,12 @@ git commit -m ":sparkles: message"
 Pour les messages de commit vous pouvez utiliser des emojis comme ceux de [gitmoji](https://gitmoji.dev/).
 Ou encore suivre une [convention de nommage](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
+---
+
+# Merge branch on `main`
+
+```
+git checkout main
+git diff main..nom_de_branche
+git merge nom_de_branche
+```
