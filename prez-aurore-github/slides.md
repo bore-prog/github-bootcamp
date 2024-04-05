@@ -80,3 +80,17 @@ ou `git checkout -b nom_de_branch`
 ou `git switch -c nom_de_branch`
 
 Vous pouvez ajouter `origin/main` pour bien baser votre création de branche sur la branch main.
+
+---
+
+# Work on a branch
+
+```scss
+git checkout nom_de_branche
+git add .
+git commit -m ":sparkles: message"
+```
+
+Pour les messages de commit vous pouvez utiliser des emojis comme ceux de [gitmoji](https://gitmoji.dev/).
+Ou encore suivre une [convention de nommage](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
