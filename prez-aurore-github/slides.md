@@ -22,18 +22,14 @@
 
 # How to initialise a new repowsitory
 
-```
-git init
+```scss
+mkdir nom-de-projet
+cd nom-de-projet git init
+
+// code
+
 git add .
 git commit -m 'le message de commit'
-```
-
-- With `oh-my-zsh` :
-
-```
-gss
-gaa
-gcmsg 'le message de commit'
 ```
 
 ---
