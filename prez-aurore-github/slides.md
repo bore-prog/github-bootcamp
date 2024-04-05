@@ -103,3 +103,10 @@ git checkout main
 git diff main..nom_de_branche
 git merge nom_de_branche
 ```
+
+## Vous pouvez aussi décider de `git push`sur la branch distante et merger via les pull requests.
+
+# Delete a branch
+
+`git branch --delete nom_de_branche` vous permet de supprimer la branche
+D'ailleurs, il vaut mieux avoir changer de branche avant (`git switch main`)
