@@ -27,3 +27,19 @@ git init
 git add .
 git commit -m 'le message de commit'
 ```
+
+- With `oh-my-zsh` :
+
+```
+gss
+gaa
+gcmsg 'le message de commit'
+```
+
+---
+
+# How to review changes
+
+```
+
+```
