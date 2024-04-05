@@ -68,3 +68,50 @@ gss
 gaa
 gcmsg 'le message de commit'
 ```
+
+---
+
+# Create a new branch
+
+```
+git branch nom_de_branch
+git checkout nom_de_branch
+```
+
+ou `git checkout -b nom_de_branch`
+
+<br>
+
+ou `git switch -c nom_de_branch`
+
+Vous pouvez ajouter à la fin `origin/main` pour bien baser votre création de branche sur la branch main distante.
+
+---
+
+# Work on a branch
+
+```scss
+git checkout nom_de_branche
+git add .
+git commit -m ":sparkles: message"
+```
+
+Pour les messages de commit vous pouvez utiliser des emojis comme ceux de [gitmoji](https://gitmoji.dev/).
+Ou encore suivre une [convention de nommage](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+
+---
+
+# Merge branch on `main`
+
+```
+git checkout main
+git diff main..nom_de_branche
+git merge nom_de_branche
+```
+
+## Vous pouvez aussi décider de `git push`sur la branch distante et merger via les pull requests.
+
+# Delete a branch
+
+`git branch --delete nom_de_branche` vous permet de supprimer la branche
+D'ailleurs, il vaut mieux avoir changer de branche avant (`git switch main`)
