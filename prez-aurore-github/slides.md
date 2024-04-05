@@ -63,3 +63,20 @@ gss
 gaa
 gcmsg 'le message de commit'
 ```
+
+---
+
+# Create a new branch
+
+```
+git branch nom_de_branch
+git checkout nom_de_branch
+```
+
+ou `git checkout -b nom_de_branch`
+
+<br>
+
+ou `git switch -c nom_de_branch`
+
+Vous pouvez ajouter `origin/main` pour bien baser votre création de branche sur la branch main.
