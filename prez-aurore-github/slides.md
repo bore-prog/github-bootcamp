@@ -1,22 +1,13 @@
 --- { "layout" : "center" }
 <!-- slides.md -->
 # Prez-Aurore-GitHub
+Made with [Spectacle](https://commerce.nearform.com/open-source/spectacle/docs/)
 
----
-
-- Made with Spectacle
-
----
+--- { "layout" : "center" }
 
 # GitHub Bootcamp
 
----
-
-## This is my slide
-
----
-
-## Happy Hacking
+https://github.com/flexbox/github-bootcamp
 
 ---
 
