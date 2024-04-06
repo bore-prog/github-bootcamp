@@ -1,3 +1,9 @@
+# Réalisation des exercices de Bootcamp GitHub par Aurore PHILIPPE
+
+Les exos réaliser se passent dans ce dossier [prez-aurore-github](https://github.com/bore-prog/github-bootcamp/tree/main/prez-aurore-github)
+
+Il y a aussi accès à un site deployé via Vercel : https://github-bootcamp-yiqc.vercel.app/?slideIndex=0&stepIndex=0
+
 # Prez-Aurore-GitHub
 
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
