@@ -116,6 +116,16 @@ Mieux vaut avoir changer de branche avant (`git switch main`)
 `git push origin main`
 Origin c'est la remote, main c'est la branche en question
 
+---
+
+# Pulling changes from remote
+
+```scss
+git status // to check if you are on the branch you wanted
+git fetch
+git pull
+```
+
 --- { "layout" : "center" }
 
 Merci pour votre attention
